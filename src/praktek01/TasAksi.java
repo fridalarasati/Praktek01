@@ -37,7 +37,5 @@ public class TasAksi {
       Kamu.cetakinfo();
       Dia.cetakinfo();
    
-}
-        }
     }
-
+}
