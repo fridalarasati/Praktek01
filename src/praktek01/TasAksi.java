@@ -11,6 +11,10 @@ package praktek01;
  */
 public class TasAksi {
     public static void main(String[] args) {
-        
+       Tas Saya = new  Tas();
+       Tas Kamu = new  Tas();
+       Tas Dia = new  Tas();
+      
+        }
     }
-}
+
