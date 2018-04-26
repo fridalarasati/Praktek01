@@ -9,6 +9,23 @@ package praktek01;
  *
  * @author My PC
  */
-public class Tas {
+public class Tas {    
+    String warna;
+    String harga;
+    String ukuran;
+    String merk;
+    String jenis;
+    
+    void cetakinfo(){
+        System.out.println("warna"+warna);
+        System.out.println("harga"+harga);
+        System.out.println("ukuran"+ukuran);
+        System.out.println("merk"+merk);
+        System.out.println("jenis"+jenis);
+        
+       System.out.println(""); 
+       System.out.println(" untuk membawa barang");
+       System.out.println("");
+    }
     
 }
