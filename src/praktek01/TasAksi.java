@@ -33,7 +33,9 @@ public class TasAksi {
       Dia.merk = "Converse";
       Dia.jenis = "Totebag";
                
-      
+      Saya.cetakinfo();
+      Kamu.cetakinfo();
+      Dia.cetakinfo();
    
 }
         }
